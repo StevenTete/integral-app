@@ -43,7 +43,7 @@ This application is perfect for students, educators, and professionals working w
 - **Python**: Not required for `.exe` version.
 
 ### **Installation**
-1. Download the latest `.exe` file from the [Releases](https://github.com/StevenTete/integral-calculator/releases) page.
+1. Download the latest `.exe` file from the [Releases](https://github.com/StevenTete/integral-app/releases) page.
 2. Save the file in your desired directory.
 3. Double-click the `.exe` to launch the app.
 
@@ -65,7 +65,7 @@ This application is perfect for students, educators, and professionals working w
 
 ## **Feedback**
 
-Your feedback is invaluable! If you encounter issues or have feature requests, please [open an issue](https://github.com/StevenTete/integral-calculator/issues).
+Your feedback is invaluable! If you encounter issues or have feature requests, please [open an issue](https://github.com/StevenTete/integral-app/issues).
 
 ---
 
